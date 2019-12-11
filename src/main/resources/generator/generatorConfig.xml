@@ -53,11 +53,9 @@
         <javaClientGenerator targetPackage="${generator.javaClient-targetPackage}" targetProject="${generator.targetProject}"
                              type="XMLMAPPER"/>
 
-        <table tableName="st_user_tarde_settlement_info"></table>
+        <table tableName="ip_tran_line_info"></table>
 
-        <table tableName="st_seller_statistic_analysis_info"></table>
 
-        <table tableName="st_generator_purchase_info"></table>
 
 
 
